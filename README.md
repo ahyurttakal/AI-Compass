@@ -5,9 +5,6 @@ raw plant data → semantic harmonisation → regulation intelligence →
 risk detection → **risk-to-regulation mapping (core)** → compliance
 indicators → audit-ready reports.
 
-Built to be shown live during consortium meetings — point at it, click
-through the eight pages, and the whole project vision is on screen.
-
 ---
 
 ## Quick start
